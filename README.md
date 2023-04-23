@@ -18,3 +18,7 @@ Learn how to use git properly
 
 
 $$ S.X = S_{T+1}$$
+FDASFSA
+FSDA
+FD
+AS
