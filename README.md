@@ -1,6 +1,6 @@
 # test_git
 Learn how to use git properly
-# ANNA update after Main branch protection
+# ANNA update after Main branch protection, before conflict
 
 ## Please be freindly to Bigginer.##
 
